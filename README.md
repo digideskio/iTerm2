@@ -20,3 +20,11 @@ index 33189ec..9e3552b 100644
                      NSResizableWindowMask |
                      NSTexturedBackgroundWindowMask);
 ```
+
+# # Installation
+
+1. Open up this project in iTerm2.
+2. Hit the play arrow in the top left to build and run.
+3. Once the app opens, you can right click the icon in your
+dock and go to Options &rarr; Show in Finder.
+4. Replace your existing iTerm2 app with that one.

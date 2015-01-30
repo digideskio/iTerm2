@@ -21,7 +21,7 @@ index 33189ec..9e3552b 100644
                      NSTexturedBackgroundWindowMask);
 ```
 
-# # Installation
+## Installation
 
 1. Open up this project in iTerm2.
 2. Hit the play arrow in the top left to build and run.
